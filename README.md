@@ -1,2 +1,2 @@
 # stackscrapper
-scrapping of data that are present in stack overflow
+scrapping of tags in stack overflow
